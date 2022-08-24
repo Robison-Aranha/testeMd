@@ -3,7 +3,7 @@
  
 ## O Problema:
     
-    O atual modelo de trabalho remoto dificulta a integração social de novos colaboradores em um ambiente profissional, principalmente em equipes muito grandes, pois é uma tendência natural do ser humano se fechar em pequenos grupos sociais.\n
+    O atual modelo de trabalho remoto dificulta a integração social de novos colaboradores em um ambiente profissional, principalmente em equipes muito grandes, pois é uma tendência natural do ser humano se fechar em pequenos grupos sociais.<br/>
     Este comportamento natural acaba acarretando alguns problemas, tanto para a empresa quanto para o contribuinte, como a falta de sensação de pertencimento, queda de produtividade e a falta do debate, algo extremamente crucial para o aprimoramento e o surgimento de novas ideias.
     
  
