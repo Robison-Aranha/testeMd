@@ -38,7 +38,7 @@
 
 ## Modelo adotado:
  > O modelo adotado para ajudar na solução do problema pelo grupo, é a criação de uma plataforma de jogos online que busquem alimentar a interação entre as pessoas,  que participem de um mesmo time. O sistema  irá proporcionar jogos que estimulem a cooperação entre dois ou mais usuários, com o objetivo de estabelecer laços entre os mesmos. Num primeiro momento, a nossa aplicação irá contar somente com um jogo, sendo esse jogo implementado inteiramente a suas funcionalidades pelos autores, o jogo escolhido é o clássico de infância, “STOP!”, entretanto isso não impede a inserção de novos jogos e funcionalidades.   
- 
+
 
 ## Integração:
  > A integração será feita utilizando o banco de dados PostgreSQl, teremos inicialmente uma tabela de identificação e descrição do usuário.
@@ -92,7 +92,7 @@
 
 
 ## BackLogs:
- > A seguir serão listados algumas ideia de backlogs:
+ > A seguir serão listados algumas ideias de backlogs:
   - Implementação de chat por audio
   - Implementação de outros jogos
   - Implementação de opção de desafiar outros participantes
