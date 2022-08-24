@@ -1,7 +1,7 @@
 ## Integração:
  > A integração será feita utilizando o banco de dados PostgreSQl, teremos inicialmente uma tabela de identificação e descrição do usuário.
 
-    ```
+    
     Usuário:
     - Id
     - Nome
@@ -9,7 +9,7 @@
     - Senha
     - Foto(opcional)
 
-    ```
+
  
  
 ## Autenticação: 
@@ -29,7 +29,7 @@
      > Dessa forma será possível autenticar e identificar cada usuário como único.
 
  - ###### Seleção De jogo:
- 
+
     > Após o usuário fazer o login, ele irá poder selecionar qual jogo ele gostaria de jogar.
     
  - ###### Criar uma sala de jogo(dentro do jogo Stop):
