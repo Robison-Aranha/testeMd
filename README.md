@@ -1,5 +1,6 @@
 ## Integração:
  > A integração será feita utilizando o banco de dados PostgreSQl, teremos inicialmente uma tabela de identificação e descrição do usuário.
+
     ```
     Usuário:
     - Id
@@ -19,17 +20,22 @@
  
 - ###### Cadastro:
     > Ao se cadastrar em nosso sistema o usuário irá ter que fornecer as seguintes informações:
+
     - Nome
     - Email
     - Senha
     - Foto(opcional)
-     >Dessa forma será possível autenticar e identificar cada usuário como único.
+
+     > Dessa forma será possível autenticar e identificar cada usuário como único.
+
  - ###### Seleção De jogo:
+ 
     > Após o usuário fazer o login, ele irá poder selecionar qual jogo ele gostaria de jogar.
     
  - ###### Criar uma sala de jogo(dentro do jogo Stop):
     
     > Ao selecionar a opção dentro do jogo de criar a sala de jogos, o usuário deverá informar: 
+
     - Quantidade rodadas do jogo
     - Quais serão os tópicos do jogo, ex: Nome, País.
     - O tempo de duração de cada rodada 
