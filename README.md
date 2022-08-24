@@ -57,14 +57,13 @@
  > As funcionalidades do nosso sistema serão listadas a seguir:
  
 - ###### Cadastro:
+    > Dessa forma será possível autenticar e identificar cada usuário como único.
     > Ao se cadastrar em nosso sistema o usuário irá ter que fornecer as seguintes informações:
 
     - Nome
     - Email
     - Senha
     - Foto(opcional)
-
-     > Dessa forma será possível autenticar e identificar cada usuário como único.
 
  - ###### Seleção De jogo:
 
