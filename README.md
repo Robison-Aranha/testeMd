@@ -26,8 +26,16 @@
 > Ao trabalhar sozinho em home office fica muito mais fácil cair em uma espiral de dúvidas sobre si mesmo, nossa mente fica muito mais suscetível a pensamentos de auto sabotagem, já dizia Platão: “Vencer a si próprio é a maior das vitórias”, nossa mente pode ser nosso pior inimigo. Mais sobre o assunto pode ser lido no artigo: [O trabalho remoto em home office aumenta o risco da síndrome do impostor?](https://blog.trello.com/br/trabalho-remoto-home-office)
     
  
-## Soluções estudadas:
- > Os jogos corporativos influenciam diretamente em três principais elementos da empresa: na prática do trabalho em equipe, no desenvolvimento e aperfeiçoamento de competências e habilidades dos colaboradores e no acolhimento de novos profissionais.
+## Soluções estudadas(jogos corporativos):
+ > Os jogos corporativos foram criados com o objetivo principal de desenvolver habilidades e competências de colaboradores além de incentivar a integração e colaboração entre as equipes. 
+ > É comum que novos colaboradores demorem um pouco para se sentirem parte da nova empresa, principalmente por conta do distanciamento ocasionado pelo trabalho remoto, por isso dinâmicas como estas auxiliam na aproximação, formação de vínculos e no surgimento de sentimentos como os de empatia e pertencimento, pois para se jogar, é necessário que as pessoas interajam entre si. Sendo assim, essa é uma importante ferramenta para promover o relacionamento entre todos os colaboradores. 
+ > Tipos de jogos corporativos:
+ > Cooperativos: Os jogos cooperativos, também conhecidos como jogos colaborativos, são aqueles que tem como propósito promover um ambiente de colaboração entre os membros da equipe. Para solucionar tarefas e desafios, é necessária a participação de todos os envolvidos. Desta forma, os jogos desta natureza estimulam a confiança entre os colaboradores, fortalecem o sentimento de grupo e promovem a cultura colaborativa.
+ > Competitivos: Neste modelo, os colaboradores são desafiados a competir entre si e sempre haverá um vencedor. Porém, tenha sempre em mente que a ideia não é estimular o espírito competitivo, mas sim que durante a competição, os participantes absorvam os ensinamentos que a empresa deseja.
+ > Comportamentais: Já nos jogos comportamentais o objetivo é promover a mudança de comportamento dos colaboradores. Durante a dinâmica, os profissionais serão desafiados a vivenciar novas experiências e, a partir daí, entender a importância da mudança de postura no ambiente de trabalho.
+ > Os jogos corporativos influenciam diretamente em três principais elementos da empresa: na prática do trabalho em equipe, no desenvolvimento e aperfeiçoamento de competências, nas habilidades dos colaboradores e no acolhimento de novos profissionais.
+ > Ações como essas fazem com que os colaboradores se sintam abraçados pela empresa, pois elas demonstram a preocupação em inserir os novos profissionais no ambiente de trabalho.
+
     
  
  
