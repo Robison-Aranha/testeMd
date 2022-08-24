@@ -3,28 +3,28 @@
  
 ## O Problema:
     
-    O atual modelo de trabalho remoto dificulta a integração social de novos colaboradores em um ambiente profissional, principalmente em equipes muito grandes, pois é uma tendência natural do ser humano se fechar em pequenos grupos sociais.
+    O atual modelo de trabalho remoto dificulta a integração social de novos colaboradores em um ambiente profissional, principalmente em equipes muito grandes, pois é uma tendência natural do ser humano se fechar em pequenos grupos sociais.\n
     Este comportamento natural acaba acarretando alguns problemas, tanto para a empresa quanto para o contribuinte, como a falta de sensação de pertencimento, queda de produtividade e a falta do debate, algo extremamente crucial para o aprimoramento e o surgimento de novas ideias.
     
  
 ## Fatores psicológicos:
-    ```
+    
     Segundo o historiador e filósofo israelense Yuval Noah Harari: 
     “A pesquisa de acompanhamento mostrou que os macacos órfãos de Harlow cresceram emocionalmente perturbados, embora tivessem recebido toda a nutrição de que precisavam. Eles nunca se encaixaram na sociedade dos macacos, tinham dificuldades de comunicação com outros macacos e sofriam de altos níveis de ansiedade e agressão. A conclusão era inevitável: os macacos devem ter necessidades e desejos psicológicos que vão além de suas necessidades materiais e se não forem atendidos, sofrerão muito. Nas décadas seguintes, numerosos estudos mostraram que essa conclusão se aplica não apenas aos macacos, mas a outros mamíferos, assim como às aves.” (Sapiens: Uma Breve História da Humanidade, 2011, p. 294).
     “Os humanos, como os chimpanzés, têm instintos sociais que permitiram que nossos ancestrais formassem amizades e hierarquias, caçassem ou lutassem juntos.
     No entanto, como os instintos sociais dos chimpanzés, os dos humanos foram adaptados apenas para pequenos grupos íntimos.” (Sapiens: A Brief history of Humankind, 2011, p. 28).
     Assim como os macacos, seres humanos apresentam necessidades emocionais e sofrem distúrbios psicológicos em consequência ao isolamento social, não só nos anos iniciais de desenvolvimento, mas quando exposto a situações prolongadas, não faltam referências sobre o assunto após a pandemia da COVID-19, como no estudo: [Como o isolamento social afeta o cérebro – IBNeuro](https://ibneuro.com.br/blogs/noticias/como-o-isolamento-social-afeta-o-cerebro).
-    ```
+    
  
  
 ## Problemas Gerados:
-    ```
+    
 	A falta do contato pessoal, seja durante o expediente ou nas pausas para o cafezinho, pode afetar não só o bem estar do indivíduo, mas o desenvolvimento da empresa como um todo, pois o contato pessoal permite a troca de informação, sejam elas relevantes ou não, mas que podem levar a insights e ao surgimento de novas ideias, essa questão vai muito de acordo com a filosofia de Sócrates do uso do debate para o enriquecimento das ideias, usado hoje como método de ensino para aprimorar o senso crítico de crianças, citado no artigo: [A discussão como ferramenta para o processo de socialização e para a construção do pensamento](https://www.scielo.br/j/edur/a/k7GGYYPycJj7ZFDcKtvnBjc/?lang=pt).
 	Outro problema que pode ser gerado é a falta de sensação de pertencimento, pois em equipes muito grandes, fica muito difícil manter o contato com todos, justamente pela limitação do ser humano de manter contato com um grupo muito grande de pessoas, esta falta de contato, não permite o surgimento do sentimento de empatia pelo próximo, e cria a sensação de “ninguém se importa”.
 	Alguém que se sente não pertencente à organização onde atua e para a qual contribui, pode apresentar alguns sinais: procrastinação, baixa autoestima, falta de iniciativa, falta de confiança (em si mesmo e no outro ou em relação à organização); problemas relacionados à saúde física, mental e emocional. Mais sobre o assunto pode ser lido no artigo: [Senso de Pertencimento e a relação com o Trabalho](https://pt.linkedin.com/pulse/senso-de-pertencimento-e-rela%C3%A7%C3%A3o-com-o-trabalho-tatiani-tozetti#:~:text=Algu%C3%A9m%20que%20se%20sente%20n%C3%A3o,sa%C3%BAde%20f%C3%ADsica%20mental%20e%20emocional).
 	Um outro fator que a  sensação de não pertencimento pode gerar é a famosa Síndrome do impostor, que pode ocorrer pela falta de compreensão em como o sistema funciona, gerando a sensação de que o indivíduo não é digno de estar onde está.
 	Ao trabalhar sozinho em home office fica muito mais fácil cair em uma espiral de dúvidas sobre si mesmo, nossa mente fica muito mais suscetível a pensamentos de auto sabotagem, já dizia Platão: “Vencer a si próprio é a maior das vitórias”, nossa mente pode ser nosso pior inimigo. Mais sobre o assunto pode ser lido no artigo: [O trabalho remoto em home office aumenta o risco da síndrome do impostor?](https://blog.trello.com/br/trabalho-remoto-home-office)
-    ```
+    
  
 ## Soluções estudadas:
  > Os jogos corporativos influenciam diretamente em três principais elementos da empresa: na prática do trabalho em equipe, no desenvolvimento e aperfeiçoamento de competências e habilidades dos colaboradores e no acolhimento de novos profissionais.
