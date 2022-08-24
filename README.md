@@ -26,7 +26,7 @@
 > Ao trabalhar sozinho em home office fica muito mais fácil cair em uma espiral de dúvidas sobre si mesmo, nossa mente fica muito mais suscetível a pensamentos de auto sabotagem, já dizia Platão: “Vencer a si próprio é a maior das vitórias”, nossa mente pode ser nosso pior inimigo. Mais sobre o assunto pode ser lido no artigo: [O trabalho remoto em home office aumenta o risco da síndrome do impostor?](https://blog.trello.com/br/trabalho-remoto-home-office)
     
  
-## Soluções estudadas(jogos corporativos):
+## Soluções estudadas (jogos corporativos):
  > Os jogos corporativos foram criados com o objetivo principal de desenvolver habilidades e competências de colaboradores além de incentivar a integração e colaboração entre as equipes. 
  > É comum que novos colaboradores demorem um pouco para se sentirem parte da nova empresa, principalmente por conta do distanciamento ocasionado pelo trabalho remoto, por isso dinâmicas como estas auxiliam na aproximação, formação de vínculos e no surgimento de sentimentos como os de empatia e pertencimento, pois para se jogar, é necessário que as pessoas interajam entre si. Sendo assim, essa é uma importante ferramenta para promover o relacionamento entre todos os colaboradores. 
  > Tipos de jogos corporativos:
