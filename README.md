@@ -1,5 +1,6 @@
 # Don`t Stop
  > Sistema de integração social de equipes com trabalho majoritariamente remoto.
+ > Autores: Lucas Behs do Reis, Róger Gabriel Moreira Almeida e João Emilio Soares Michalksi
  
 ## O Problema:
 > O atual modelo de trabalho remoto dificulta a integração social de novos colaboradores em um ambiente profissional, 
